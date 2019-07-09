@@ -1,26 +1,34 @@
 ---
-title: Home
-permalink: /
+
 layout: home
+permalink: /
+title: Census 2020
+
+hero:
+  image: /assets/img/021_20150721_SLC_JEFF_PARK.jpg
+  callout: 
+    alt: Census 2020
+    text: What is the Census?
+  content: The United States Census is a national population count, regardless of citizenship or immigration status. It takes place every 10 years.
 
 ---
 
-# What is the Census?
+<!-- # What is the Census?
 
 The United States Census is a national population count, regardless of citizenship or immigration status. It takes place every 10 years.
-
+ -->
 # Why the Census Matters
 
 Information from the census shapes our communities and influences our city voice in Congress. The census tells us who we are as a nation and what we need.
 
-The data is used to distribute around $700 billion in federal funds to local communities in areas such as healthcare, housing, education, and transportation. Programs like Medicaid, SNAP, and Head Start are allocated based on the census. In 2016 alone, Illinois received $35 billion in census-determined funding for programs such as Medicaid, student loans, SNAP benefits, and highway construction.
+The data are used to distribute around $700 billion in federal funds to local communities in areas such as healthcare, housing, education, and transportation. Programs like Medicaid, SNAP, and Head Start are allocated based on the census. In 2016 alone, Illinois received $35 billion in census-determined funding for programs such as Medicaid, student loans, SNAP benefits, and highway construction.
 
-An accurate census ensures equal political representation and allocated government resources. For example, census data is used to determine how many seats each state gets in the House of Representatives, and to redraw the boundaries of congressional and state legislative districts. Census data is also used at the local level: the City of Chicago relies on population counts to make important decisions about local policies and funding.
+An accurate census ensures equal political representation and allocated government resources. For example, census data are used to determine how many seats each state gets in the House of Representatives, and to redraw the boundaries of congressional and state legislative districts. Census data are also used at the local level: the City of Chicago relies on population counts to make important decisions about local policies and funding.
 
 *Participation in the census is the right and responsibility of every Chicago resident.*
 
 
-# How to Respond to the Census
+## How to Respond to the Census
 The census is one of the government’s most important responsibilities and it helps decide where federal money is spent. It is often described as the government’s largest peacetime mobilization. You should respond to the census regardless of your immigration status, housing status, age, race, or ability. 
 
 Your answers to the census are protected by law. It is unlawful for your confidential responses to be used against you by a government agency or court.  
@@ -35,10 +43,10 @@ Your answers to the census are protected by law. It is unlawful for your confide
 
 **July 2020:** Census operations and in-person visits will wrap up by the end of July.
 
-# Chicago’s Census Priorities
+## Chicago’s Census Priorities
 **The City of Chicago** is committed to helping every Chicagoan participate in the 2020 Census. The City pledges to:
 
-1. Ensure a __fair, complete, accurate count__ of every individual living in Chicago. 
+1. Ensure a __fair, complete, and accurate count__ of every individual living in Chicago. 
 
 2. Develop __culturally-appropriate strategies for hard-to-count populations__.
 
@@ -48,12 +56,15 @@ Your answers to the census are protected by law. It is unlawful for your confide
 
 **What does this mean to you?** If you live in Chicago and do not know how to complete the census, reach out to us and check out our [Frequently Asked Questions](link to our Census Chicago FAQ page). We will direct you to the resources you need. If you would like to help us ensure that every Chicagoan gets counted, [get involved](link to Census Chicago subcommittee page) and check back regularly for opportunities to help your community get out the count.
 
-# Chicago’s Complete Count Committee 
+## Chicago’s Complete Count Committee 
 
 **What is a Complete Count Committee?** Complete Count Committees (CCCs) are created by cities and local governments to promote the census in the local community. 
 Chicago’s Complete Count Committee includes about 30 community leaders, elected officials, advocates, organizers, and service providers. The Complete Count Committee will mobilize resources, align priorities, and recommend strategies for reaching “hard-to-count” populations. 
+
 ## Members of Chicago’s Complete Count Steering Committee
-*Chairs*
+
+### Chairs
+
 * Ric Estrada, CEO of Metropolitan Family Services
 * Rebecca Shi, Executive Director, Illinois Business Immigration Coalition
 * Andrea Zopp, President and CEO of World Business Chicago
@@ -62,7 +73,8 @@ Chicago’s Complete Count Committee includes about 30 community leaders, electe
 * Alderman Roberto Maldonado, Chairman of the Chicago City Council Latino Caucus
 * Alderman Ariel Reboyras
 
-*Members*
+### Members
+
 * Dr. Reginald E. Bachus, Pastor, Friendship Baptist Church
 * Anita Banerji, Director, Democracy Initiative, Forefront + Illinois Count Me In 2020 Funders’ Collaborative
 * Jaime di Paulo, President & CEO, Illinois Hispanic Chamber of Commerce
@@ -88,14 +100,16 @@ Chicago’s Complete Count Committee includes about 30 community leaders, electe
 
 Additional Complete Count Subcommittees facilitate strategies to reach specific “hard-to-count” communities. 
 
-*Communications*
+### Communications
+
 * Digital Access
 * Media
 * Language Access
 * Marketing
 * Rental/Condo Housing 
 
-*Outreach* 
+### Outreach
+
 * Disability and Accessibility
 * Millennials 
 * Aging Population
@@ -111,13 +125,15 @@ Additional Complete Count Subcommittees facilitate strategies to reach specific 
 * Legal Aid and Advocacy
 * Resources 
 
-*Human Capital*
+### Human Capital
+
 * Hiring 
 * Volunteers 
 
 ## Partners, Departments and Sister Agencies 
 
-These partners, city departments and sister agencies work closely with Chicago’s Complete Count Committee to promote the census throughout Chicago
+These partners, city departments and sister agencies work closely with Chicago’s Complete Count Committee to promote the census throughout Chicago:
+
 * Chicago Public Schools
 * City Colleges of Chicago
 * Chicago Housing Authority
@@ -139,7 +155,7 @@ These partners, city departments and sister agencies work closely with Chicago�
 * [How the Census Will Invite Everyone to Respond](https://www.census.gov/content/dam/Census/library/factsheets/2019/dec/how-census-invites-everyone.pdf)
 * [Confidentiality Fact Sheet – English](https://www.census.gov/content/dam/Census/library/factsheets/2019/comm/2020-confidentiality-factsheet.pdf) 
 * [El Censo del 2020 y la Confidencialidad](https://www.census.gov/content/dam/Census/library/factsheets/2019/dec/2020-confidentiality-factsheet-sp.pdf)
-*[Census Bureau Frequently Asked Questions](https://www2.census.gov/about/partners/general/2020-faqs.pdf?)
+* [Census Bureau Frequently Asked Questions](https://www2.census.gov/about/partners/general/2020-faqs.pdf?)
 
 # Hard-to-Count Communities Interactive Map
 Certain parts of the country are identified as hard-to-count communities. These communities have historically had low census self-response rates and have depended on in-person visits to each non-responding household to be counted. Chicago is committed to helping its hard-to-count communities complete the 2020 Census. 
@@ -154,7 +170,7 @@ You can visit [Census 2020 Hard to Count Map](http://bit.ly/2XhmWfS) to view har
 
 * [August 6, 2018: City Of Chicago Along With 18 States, 4 Counties And 10 Cities Submit Official Comment Rejecting Trump Administration’s Decision To Add Citizenship Question On 2020 Census](https://www.chicago.gov/city/en/depts/mayor/press_room/press_releases/2018/august/080618_CitizenshipQuestion2020Census.html)
 
-*[April 3, 2018: Mayor Rahm Emanuel, City of Chicago Join Suit to Block Trump Administration from Demanding Citizenship Info in 2020 Census](https://www.chicago.gov/city/en/depts/mayor/press_room/press_releases/2018/march/2020Census.html)
+* [April 3, 2018: Mayor Rahm Emanuel, City of Chicago Join Suit to Block Trump Administration from Demanding Citizenship Info in 2020 Census](https://www.chicago.gov/city/en/depts/mayor/press_room/press_releases/2018/march/2020Census.html)
 
 
 # Community Partners and Resources 
@@ -162,13 +178,11 @@ You can visit [Census 2020 Hard to Count Map](http://bit.ly/2XhmWfS) to view har
 
 * [IL Subcommittees and Local Complete Count Committees](https://www.illinoiscensus2020.com/subcommittee.html)
 
-* [Cook County Census 2020](https://www.cookcountyil.gov/service/2020-censu)
+* [Cook County Census 2020](https://www.cookcountyil.gov/service/2020-census)
 
 * [U.S. Census Bureau, Chicago Regional Office](https://www.census.gov/about/regions/chicago.html)
 
 * [Forefront Democracy Initiative](https://myforefront.org/democracy-initiative-0)
-
-
 
 # Get Involved
 ## Work for the Census Bureau
