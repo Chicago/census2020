@@ -45,7 +45,7 @@ contact:
    #   external: true
    #   type: facebook
     - text: Twitter
-      href: https://www.twitter.com/
+      href: https://www.twitter.com/chicagosmayor
       external: true
       type: twitter
   # - text: RSS Feed

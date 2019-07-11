@@ -2,11 +2,10 @@
 
 layout: page
 permalink: /faq
-title: Census 2020
+title: Census 2020 Frequently Asked Questions
 
 ---
-
-# Frequently Asked Questions 
+  
 
 ## The Basics
 
