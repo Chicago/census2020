@@ -2,7 +2,7 @@
 
 layout: page
 permalink: /resources
-title: Census Bureau Resources
+title: U.S. Census Bureau Resources
 
 ---
 
@@ -14,9 +14,9 @@ title: Census Bureau Resources
 * [Census Bureau Frequently Asked Questions](https://www2.census.gov/about/partners/general/2020-faqs.pdf?)
 
 # Community Partners and Resources 
-* [IL Complete Count Commission: Interim Report to IL General Assembly](https://www.illinoiscensus2020.com/publications/intreportga1118.pdf)
+* [Illinois Complete Count Commission: Interim Report to Illinois General Assembly](https://www.illinoiscensus2020.com/publications/intreportga1118.pdf)
 
-* [IL Subcommittees and Local Complete Count Committees](https://www.illinoiscensus2020.com/subcommittee.html)
+* [Illinois Subcommittees and Local Complete Count Committees](https://www.illinoiscensus2020.com/subcommittee.html)
 
 * [Cook County Census 2020](https://www.cookcountyil.gov/service/2020-census)
 
