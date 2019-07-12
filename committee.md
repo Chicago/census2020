@@ -42,7 +42,7 @@ Chicago’s Complete Count Committee includes about 30 community leaders, electe
 * Nabeela Rasheed, Section Head of Intellectual Property, AbbVie
 * Dr. Michael Runnels, Reverend, Greater Metropolitan Missionary Baptist
 * Doug Schenkelberg, Executive Director, Chicago Coalition for the Homeless
-* Dilara Syeed, Illinois Muslim Civic Coalition
+* Dilara Sayeed, Illinois Muslim Civic Coalition
 * Maria Whelan, President and CEO, Illinois Action for Children
 * Griselda Vega Samuel, Midwest Regional Counsel, MALDEF
 * Alderman Carrie Austin
