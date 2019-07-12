@@ -24,5 +24,3 @@ title: U.S. Census Bureau Resources
 
 * [Forefront Democracy Initiative](https://myforefront.org/democracy-initiative-0)
 
-    {% include get-involved.md %}
-

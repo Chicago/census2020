@@ -57,7 +57,5 @@ Certain parts of the country are identified as hard-to-count communities. Histor
 
 You can visit [Census 2020 Hard to Count Map](http://bit.ly/2XhmWfS) to view hard-to-count communities in Chicago and the rest of the United States. 
 
-    {% include get-involved.md %}
-
 
 

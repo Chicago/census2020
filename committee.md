@@ -102,5 +102,3 @@ These partners, city departments and sister agencies work closely with Chicagoâ€
 * Illinois Secretary of State
 
 
-    {% include get-involved.md %}
-
