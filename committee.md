@@ -6,7 +6,8 @@ title: Chicago’s Complete Count Committee
 
 ---
 
-**What is a Complete Count Committee?** Complete Count Committees (CCCs) are created by cities and local governments to promote the census in the local community. 
+### What is a Complete Count Committee?
+Complete Count Committees (CCCs) are created by cities and local governments to promote the census in the local community. 
 Chicago’s Complete Count Committee includes about 30 community leaders, elected officials, advocates, organizers, and service providers. The Complete Count Committee will mobilize resources, align priorities, and recommend strategies for reaching hard-to-count populations. 
 
 ## Members of Chicago’s Complete Count Steering Committee
