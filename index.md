@@ -5,7 +5,7 @@ permalink: /
 title: Census 2020
 
 hero:
-  image: /assets/img/021_20150721_SLC_JEFF_PARK.jpg
+  image: /assets/img/Chicago-neighborhood-looking-towards-loop.jpg
   callout: 
     alt: Census 2020
     text: What is the Census?
