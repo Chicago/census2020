@@ -1,4 +1,10 @@
-# Get Involved
+---
+
+layout: page
+permalink: /get-involved
+title: Get Involved
+
+---
 
 ## Work for the Census Bureau
 
