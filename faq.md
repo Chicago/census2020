@@ -30,7 +30,7 @@ The Census survey will ask the name, sex, age, date of birth, race/ethnicity, an
 ### Will the Census ask for my citizenship status?
 The federal government has said it is looking for a way to include the citizenship question on the Census, but many community organizations, states, and municipalities, including Chicago, are fighting in court to stop them. 
 ### Who should I count in my Census? 
-You should count anyone who is living and sleeping in your home most of the time. This includes both related family members and unrelated people, such as foster children, friends, lodgers or live-in employees.  For more information, see the [2020 Census Website] (https://2020census.gov/en/who-to-count.html)
+You should count anyone who is living and sleeping in your home most of the time. This includes both related family members and unrelated people, such as foster children, friends, lodgers or live-in employees.  For more information, see the [2020 Census Website](https://2020census.gov/en/who-to-count.html)
 ### Are children included in the Census?
 Yes! It is important to count any children living in your housing unit most of the time. This includes children who split their time between households, newborn babies, and other children who may live with you like grandchildren, the children of friends, or nieces and nephews. 
 
@@ -41,8 +41,8 @@ There are three ways you can fill out the Census survey: online, by telephone, o
 Starting in March 2020, the U.S. Census Bureau will mail postcards to every household in the United States. You should receive your postcard by April 1, 2020. 
 ### How do I access the online survey if I don’t have Internet access at home?
 Visit one of our Connect Chicago Locations for digital access: [Connect Chicago Internet Access Map](https://data.cityofchicago.org/Education/Connect-Chicago-Locations-Map/4jzv-pgsc)
-<!-- 
-<div><p style="margin-bottom:3px"><a href="https://data.cityofchicago.org/Education/Connect-Chicago-Locations-Map/4jzv-pgsc" target="_blank" style="font-size:12px;font-weight:bold;text-decoration:none;color:#333333;font-family:arial;">Connect Chicago Locations - Map</a></p><iframe width="500px" title="Connect Chicago Locations - Map" height="425px" src="https://data.cityofchicago.org/w/4jzv-pgsc/3q3f-6823?cur=mNwlwoniwtj&from=root" frameborder="0"scrolling="no"><a href="https://data.cityofchicago.org/Education/Connect-Chicago-Locations-Map/4jzv-pgsc" title="Connect Chicago Locations - Map" target="_blank">Connect Chicago Locations - Map</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p></div> -->
+
+{% include map.html %}
 
 ### When can I go online and fill out the Census survey?
 You will receive a postcard by April 1, 2020 directing you to fill out the Census online. At that time, you can go online to complete the Census. 
