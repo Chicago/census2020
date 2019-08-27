@@ -19,8 +19,8 @@ email: census@cityofchicago.org
 description: >- # this means to ignore newlines until "baseurl:"
   The United States Census is a national population count, regardless of citizenship or immigration status. It takes place every 10 years.
   Learn more about how Chicagoans and the City of Chicago can help make the census a success!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /census2020 # the subpath of your site, e.g. /blog
+url: https://chicago.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
